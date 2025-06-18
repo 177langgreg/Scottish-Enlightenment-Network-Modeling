@@ -3,4 +3,4 @@ This repository provides code to support the academic paper titled "NLP Analysis
 
 Information to navigate the documents in this repository:
 - The folder "Processed Text Files" includes versions of the text files which now are revised by the data pre-processing. Steps in the pre-processing include removing numbers, punctuation, and capitalization, and "stemming" of words to associate words with common roots.
-- The file "Combined Analysis.v2" provides the code, which was run in Google Colab, used for the Data Processing, Similarity Modeling, and Network Modeling.
+- The file "Combined Analysis" provides the code, which was run in Google Colab, used for the Data Processing, Similarity Modeling, and Network Modeling.
