@@ -1,0 +1,143 @@
+NATURAL HISTORY, GENERAL AND PARTICULAR, BY THE COUNT DE BUFFON, TRANSLATED INTO ENGLISH.
+
+ILLUSTRATED WITH ABOVE 260 COPPER-PLATES, AND OCCASIONAL NOTES AND OBSERVATIONS BY THE TRANSLATOR.
+
+VOLUME I.
+
+EDINBURGH: Printed for WILLIAM CREECH. M,DCC,LXXX.
+
+TO THE COUNT DE BUFFON, &c. &c. &c.
+SIR,
+YOU did me honour by permitting me to address to you my Translation of your illustrious work; and I am now proud to exercise the privilege you so politely conferred upon me. The important Information it contains, and the Eloquence of its Composition, joined to the Ingenuity, Taste, and Erudition with which it every where abounds,
+--ii--
+induced me to think that a Version of it into the English language, by diffusing the knowledge of Nature, would increase the number of her admirers. The task, it must be acknowledged, was arduous; but your approbation and encouragement, by redoubling my vigour, diminished the difficulty of the labour.
+
+It was with the liveliest pleasure that I received your Communications respecting the valuable Performances you have already published, and concerning those undertakings which now engage your attention and cares. I failed not to announce to your friends in this country the advantages which Science and Literature have yet to expect from you; and I need hardly observe, that their wishes and my own, for the accomplishment of your purposes, are in proportion to the greatness of your talents.
+
+The success which the Translation met with, when published separately in volumes, I imputed
+--iii--
+to the celebrity of your name, and to the high value of the original; and these causes, I trust, will justify my anxious attention in laying it before the Public in its collected and more perfect form.
+
+I have the honour to be, With the most entire respect, SIR, Your most obedient, and Most humble servant, WILLIAM SMELLIE. EDIN. May 10. 1781.
+CONTENTS.
+THE History and Theory of the Earth Page 1
+Proofs of the Theory of the Earth Page 59
+ARTICLE I. Of the Formation of Planets Page 59
+ARTICLE II. Of Whiston's Theory of the Earth Page 97
+ARTICLE III. Of Burnet's Theory Page 109
+ARTICLE IV. Of Woodward's Theory Page 113
+ARTICLE V. Examination of some other Theories Page 118
+—Bourguet's Theory Page 122
+—Leibnitz's Theory Page 124
+—Scheutzer's Theory Page 126
+ARTICLE VI. Geography Page 133
+ARTICLE VII. Of the Formation of Strata, or Beds, in the Earth Page 157
+ARTICLE VIII. Of Shells, and other Productions of the Sea, found in the Interior parts of the Earth Page 188
+ARTICLE IX. Of the Inequalities upon the Earth's Surface Page 228
+ARTICLE X. Of Rivers Page 249
+ARTICLE XI. Of Seas and Lakes Page 290
+ARTICLE XII. Of the Tides Page 339
+--iv--
+ARTICLE XIII. Of Inequalities in the Bottom of the Sea, and of Currents Page 351
+ARTICLE XIV. Of Regular Winds Page 367
+ARTICLE XV. Of Irregular Winds, Hurricanes, Water-Spouts, and other Phaenomena occasioned by the Agitation of the Sea, and of the Air Page 386
+ARTICLE XVI. Of Volcano's and Earthquakes Page 408
+ARTICLE XVII. Of New Islands, Caverns, perpendicular Fissures, &c. Page 442
+ARTICLE XVIII. Of the Effects of Rains—Of Marshes, Subterraneous Wood and Waters Page 473
+ARTICLE XIX. Of the Changes of Land into Sea, and of Sea into Land Page 483
+CONCLUSION Page 512
+DIRECTIONS to the BINDER.
+Place the Head fronting the title page.
+Place Plate I. between page 134 and page 135.
+Place Plate II. between page 136 and page 137.
+PREFACE BY THE TRANSLATOR.
+NATURAL HISTORY is the most extensive, and perhaps the most instructive and entertaining of all the sciences. It is the chief fource from which human knowledge is derived. To recommend the study of it from motives of utility, were to affront the understanding of the reader. Its importance, accordingly, in the arts of life, and in storing the mind with just ideas of external objects, as well as of their relations to the human race, was early perceived by all nations in their progress from rudeness to refinement.
+
+But, notwithstanding the great advantages arising from the knowledge of Nature, Aristotle is the only antient writer on ZOOLOGY who merits attention. Instead of retailing fictions, or facts founded upon ignorance and credulity, he investigated the relations and discrepances which connect and distinguish the various tribes of animals.
+--vi--
+What had been only a chaos of detached, uncertain, and often fabulous narrations and descriptions, he reduced into a scientific form, with a success so amazing, that, to this hour, no systematic view of animated beings has been attempted, the principles of which have not been adopted from Aristotle's history of animals. His analogies and distinctions are taken not only from the instruments of motion, the teeth, the eyes, the heart, or other external and internal organs of the body, to which the attention of our modern methodists has been chiefly confined, but from magnitude, figure, manners, faculties and dispositions of mind. He attempted not to arrange and define every known species. This labour he left to men of less genius and more patience. His work consists entirely of philosophical dissertations on the general structure, manners, and dispositions of animals; and his particular facts are always employed to support the principles which he is endeavouring to establish.
+
+Pliny and Aelian, though they had the illustrious example of Aristotle before them, produced nothing but crude collections, without discovering much taste, judgment, or knowledge of the subject.
+
+From this period, till the voluminous Gesner and Aldrovandus appeared, the knowledge of Nature, like other branches of literature, was involved in the general gloom of ignorance and superstition. It was the object of these authors
+--vii--
+to amass every thing that had been said of animals by poets, shepherds, grammarians, philosophers, physicians, and old women. Their prolixity, of course, is insufferable. Their labours, however, may be regarded as rude quarries, from which some valuable materials may be dug up; but the expence of removing the rubbish will, perhaps, overbalance their intrinsic value.
+
+In the same class, with little exception, may be ranked, Wotton, Belon, Rondeletius, Salvianus, Johnson, and a multitude of similar writers. They all transcribed, and sometimes abridged, the labours of their predecessors; but they uniformly lost sight of philosophy and science.
+
+This race of phlegmatic writers was succeeded by our celebrated countrymen Mr Ray and Mr Willoughby, who were admirers of Nature, and lamented the slovenly dress in which she had been generally exhibited. They knew the value of her treasures, and wished to show them in their native brilliancy. They rejected dubious and fictious relations. They added, from observation and experiment, many new facts: They arranged animals under proper classes and subdivisions: They described with accuracy and precision: They pointed out the importance of the science, and recommended the study of it by the solidity and clearness of their views, and by the brevity and perspicuity of their compositions. This taste continued some time, and produced the works of Reaumur, Trembley, Buffon, and similar publications.
+
+--viii--
+From beginnings so prosperous much was to be expected. But the excellency of method was no sooner recognised, than the philosophy of the science was nearly extinguished by a profusion of new terms and arrangements. The justly celebrated Linnaeus, by persevering industry, joined to the utility of his technical Dictionarynote, unfortunately turned the attention of most naturalists, though contrary to the learned author's design, from the great views of Nature to the humble ambition of system-making. It is needless to specify examples. Every philosopher must have observed, with regret, that inundation of methodical distributions which have successively appeared during the course of these last thirty or forty years. Since the publishing of Linnaeus's works, the attention of Naturalists has been principally occupied with criticising former arrangements, and fabricating new ones. The philosophy of the science has, of course, been almost totally neglected. It has been exhibited in its most forbidding aspect, which has limited the study of it to a few, and those often not of the most brilliant talents; for it has been remarked, that the parade of learning, resulting from technical phrases and definitions, allure some men to become what is called great naturalists, whose chief knowledge of Nature consists
+--ix--
+in the knack of being able to name, with facility, a great number of her productions.
+
+This propensity toward multiplying methodical distributions, and disputing about their respective merits, has brought much obloquy on the science of Nature. Men of sense perceive the folly of discussions concerning the local situation of an animal in a book. They consider the authors as learned triflers; and, what is worse, they are apt to regard a subject, which affords no better entertainment or information, as barren and unprofitable. To no other source are to be ascribed the following sentiments, so frequently expressed by men of no inconsiderable talents: 'That natural historians have seldom discovered extensive views; that they confine their chief attention to the mere technical part of the science; that they rarely take notice of manners and instincts, or the causes and oeconomy of animal action; and that they never pursue these great and useful objects with a degree of taste and philosophical accuracy, proportioned to the importance of the subject.' These strictures are common: It were to be wished that they had no foundation in truth.
+
+In natural history, two ends only can be attained by system. Both of them are useful, but extremely different in their kinds. System may be employed either to facilitate the distinction
+--x--
+of objects, or to ascertain their relations in the scale of being.
+
+The first species of system, it is obvious, must consist entirely of a series of external or internal characters. It is of little moment, whether the objects ranked under particular ORDERS be mutually connected; because, if we may judge from the many laborious, but abortive attempts which have been made, Nature seems not to have expressed such connections in characters recognisable by our senses. A system so limited in its principles and design, can never assume any other form than that of a technical index or dictionary. If the general and particular characters be so marked, that a student, after learning the divisions and language of the author, can investigate the proper names of the objects presented to him, then is this system perfect; because its sole and primary intention is fulfilled.
+
+Were every naturalist of the same sentiments with regard to this point, many incumbrances, which now load the science, would be removed; the tyro would not be disgusted and retarded by an infinity of synonimes; natural history would acquire a more simple and intelligible form; and the number of its votaries would soon be augmented.
+
+The second species of system is more elevated and sublime. But, as it includes the whole philosophy of Nature, it requires a depth of judgment, a superiority of genius, an extent of knowledge,
+--xi--
+which are seldom united in the same person. Natural objects are wonderfully diversified in their structure, oeconomy, and faculties. But, in these, as well as in many other circumstances, they are no less wonderfully connected. Here, then, are foundations for constructing the system of Nature. To mark the distinctions, to investigate the relations, to ascertain the great chain that unites the numerous tribes which people and adorn the universe, would demand talents superior, perhaps, to those of humanity. We ought not, however, to despair. Hardly any bounds can be set to the combined force of different minds acting successively upon the same subject. Something has already been done. More may in time appear: Nature, in some future period, may happily unite Philosophy and Natural History, a phaenomenon which has hitherto been but partially exhibited.
+
+Among those authors, whether antient or modern, who have contributed to unfold the philosophy of Natural History, the COUNT DE BUFFON holds the most distinguished rank. This learned and eloquent writer has introduced into his subjects a greater variety of disquisition, and given more comprehensive views of Nature, than any preceeding or contemporary historian. His facts are, in general, collected with judgment and fidelity; and his reasonings and inferences are not only bold and ingenious, but adorned with all the beauties of expression, and
+--xii--
+all the charms of novelty. They every where lead to reflections which are momentous and interesting. They expand the mind and banish prejudices. They create an elevation of thought, and cherish an ardour of inquiry. They open many great and delightful prospects of the oeconomy of Nature, of the alterations and accidents to which she is liable, of the causes of her improvement or degeneration, and of the general relations that connect the whole, and give rise to all the diversities which characterise and constitute particular orders of existencenote.
+
+--xiii--
+The original work, of which a translation is now attempted, was undertaken and carried into execution under the munificent encouragement of a great monarch. The design was to compose a history which should record not only every phaenomenon in the universe that was already known; but to examine, describe, and delineate from the life, all the animals which could be procured by royal influence. A plan so extensive required the joint operation of, at least, two person; the one to compose the historical part, the other to dissect and minutely describe every animal, both native and foreign, that should be obtained. The literary character and philosophic talents of the COUNT DE BUFFON pointed him out for the execution of the first department, and the acuteness and anatomical skill of M. DAUBENTON, recommended him for that of the second.
+
+Three volumes of this great work were given to the public in the year 1749. These volumes exhibited such displays of learning, taste, genius, and eloquence, as procured to the author uncommon admiration, and excited a strong and general desire for the completion of his plan; which however, from various causes, was not accomplished till the year 1767.
+
+--xiv--
+The COUNT DE BUFFON, in the year 1776, favoured the world with a supplementary volume to his history of quadrupeds, which, beside an ingenious dissertation on Mules, contains relations and figures of several new animals, and valuable additions to most of those described in the original publication.
+
+It would be improper to enter more minutely into the history or contents of this magnificent work. Such is the fertility of the author's genius, and such his ardour for philosophic inquiry, that, when treating of the most common animals, he often astonishes his reader with the profoundness of his remarks, and the beauty of his analogical discussions.
+
+But, though the publication was a great acquisisition to literature; yet the high price of SIXTEEN GUINEAS, which was an unavoidable consequence of its splendour, and of the prodigious number of its elegant engravings, confined its utility to men of opulence. Sensible of this inconvenience, the COUNT DE BUFFON, a few years ago, published an edition in 12mo; and, to bring it within the reach of common purchasers, he excluded from it the long and minute anatomical dissections and mensurations.
+
+After this short sketch of the COUNT DE BUFFON's History of Nature, it may seem strange that no decent translation of it has hitherto appeared in the English language. To such an undertaking, the great expence of the engravings
+--xv--
+was one solid objection. Another arose from the vast variety of learning employed by the author. When to these are added the exuberance of his fancy, the eloquence and force of his diction, the delicacy and acuteness of his disquisitions, we should rather wonder how any man could reconcile himself to a task so laborious, and which required the union of such diversified talents.
+
+The translation which is now submitted to the judgment and candour of the public, was projected and begun about seven years ago. The translator, unsuspicious of rivals, proceeded with deliberation. When the ingenious Dr Goldsmith's Natural History appeared, some assistance was expected, as he translates many passages from Buffon. But this expectation was abortive; for Dr Goldsmith, though he follows our author in general, omits and patches according to his own fancy, seldom giving any article entire, or in order, and never exerting those talents as a translator which he employs so successfully in his original compositions.
+
+Dr Goldsmith's Natural History, however, suggested to some booksellers the idea of a cheap translation of Buffon's History of Quadrupeds. The present translator, knowing the difficulty and labour of his undertaking, was naturally alarmed
+--xvi--
+when he saw this new publication announced. But, upon the perusal of it, he was surprised to find, that, in many places, it was nearly a literal transcript of the passages which Dr Goldsmith had tacked together to answer his own views, without intending to translate, or to exhibit fully the ideas of Buffonnote. By this manufacture, entire passages of the original, pages, sometimes to the extent of ten or a dozennote, the whole supplementary Volume, all the synonimes and descriptions, and most of the authorities, are omitted. Of course, the reasonings of the author are rendered inconclusive; his narrative is thrown into confusion; and his observations are rendered incoherent. Above 130 copperplates are also omitted; all those which illustrate
+--xvii--
+the experiments on generation being of this number. The Translators, besides, as is evident from a thousand instances, were unacquainted with the subjects which were treated, and could not express sentiments which they did not understandnote The style, too, is not only slovenly
+--xviii--
+and inaccurate, but often perfectly unintelligible. In a word, this translation must be, and actually is, considered by every intelligent reader, as a
+--xix--
+mere literary imposition. It is painful to mark the blunders of other men; and, were it not for a regard to literature, and to the reputation of the COUNT DE BUFFON, no notice should have been taken of this strange performance. But the examples given in the notes will fully justify the seeming severity of these strictures.
+
+The following translation comprehends what is contained in the original fifteen volumes in quarto, together with the supplementary volume to the history of quadrupeds, excepting the description of the King's cabinet, the dry and uninteresting anatomical dissections and mensurations, which can be of little use but to professed anatomists, and have been properly omitted by the author in the last Paris edition. The method of studying Natural History; the reprehension of methodical distributions; and the mode of describing animals, are likewise omitted. The chief intention of these discourses is to ridicule the authors of systematic arrangements, and particularly the late ingenuous and indefatigable Sir Charles Linnaeus, whose zeal and labours in promoting the investigation of natural objects merit the highest applause. There is a stronger reason for this omission: The same remarks and arguments are, perhaps, too frequently repeated in the history of particular animals.
+
+To render this English version more valuable, the translator has added short distinctive descriptions to each species of quadrupeds. For these
+--xx--
+he has been indebted to the labours of the learned and ingenious Mr Pennant, who has also, with that politeness, and disinterested regard to science, which ought always to adorn the gentleman and the scholar, frankly permitted the engraving of several new animals from his excellent Synopsisnote. Beside these useful additions, the synonimes, and the generic and specific characters given by Linnacus, Klein, Brisson, and other naturalists, are subjoined to the description of each species.
+
+Where the author commits mistakes, or where he recommends practices, regarding the management of particular animals, which differ from those observed in this country, the translator has taken the liberty of animadverting upon such passages in notes: But he has seldom taken any notice of peculiar theories or doctrines. These must rest upon the facts and arguments employed by the author. It was not the intention of the translator to write a commentary upon his original.
+
+The great variety of subjects discussed by the Count de Buffon, has already been mentioned. It is unnecessary to remark, that every subject demands a peculiar style. A bare enumeration of facts, or descriptions of the dimensions, figure, and colour of animals, admit of no other ornament than that of perspicuity. Topics of philosophy and argument require a higher and
+--xxi--
+more figurative expression: And addresses to the passions, and the finer feelings of men, give full scope to the exercise of genius and taste. Of these different species of writing, the examples are numerous in the works of the COUNT DE BUFFON. The translator has endeavoured to follow the original, as far as his abilities would permit. The degree of success he has attained must be submitted to the impartial determination of the public. He shall only say, that his apprehensions, though he is conscious of no voluntary negligence, are much greater than his hopes.
+
+In the dimensions of animals, the translator has retained the French measures. The differences between the foot or inch of England and France are so inconsiderable, when applied to individual animals, that he thought it unnecessary to reduce them to the precise English standard, especially as the dimensions are English in the descriptions added in the notes.
+
+EDIN. Jan. 10. 1780.
+ERRATA.
+Page 23. line 13.for scoup read scoop.
+Page 261. line 4. from the bottom, for then r. than.
+Page 313. line 12. for Straits of the Sund, r. Straits of Sunda.
+Page 357. line 4. for Livourne r. Leghorn.
+Page 355. line 5. for John Ferdinando r. Juan Fernandes.
+Page 426. line 8. for Trivoli r. Tivoli.
+Page 444. line 4. from the bottom, for consisting of, r. covered with
